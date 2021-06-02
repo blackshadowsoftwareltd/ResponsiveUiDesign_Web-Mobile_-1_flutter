@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+ <img src="screenShots/m1.png" alt="Girl in a jacket" width="500" height="600"> 
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
