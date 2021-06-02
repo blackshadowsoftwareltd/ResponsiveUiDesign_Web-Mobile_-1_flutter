@@ -4,9 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
- <img src="screenShots/m1.png" alt="Screenshot 1" width="100" height="300">
-## text
- <img src="screenShots/m1.png" alt="Screenshot 1" width="100" height="300"> 
+ <div class="row">
+  <div class="column">
+   <img src="screenShots/m1.png" alt="Screenshot 1" width="150" height="300">
+  </div>
+  <div class="column">
+   <img src="screenShots/m2.png" alt="Screenshot 1" width="150" height="300">
+  </div>
+  <div class="column">
+   <img src="screenShots/m3.png" alt="Screenshot 1" width="150" height="300">
+  </div>
+</div> 
+
 
 This project is a starting point for a Flutter application.
 
