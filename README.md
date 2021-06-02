@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
- <img src="screenShots/m1.png" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="screenShots/m1.png" alt="Screenshot 1" width="100" height="300">
+## text
+ <img src="screenShots/m1.png" alt="Screenshot 1" width="100" height="300"> 
 
 This project is a starting point for a Flutter application.
 
