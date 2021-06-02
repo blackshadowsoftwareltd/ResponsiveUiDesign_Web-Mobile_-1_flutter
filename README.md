@@ -7,13 +7,13 @@ A new Flutter project.
  <div class="row">
  
    <img src="screenShots/m1.png" alt="Screenshot 1" width="150" height="300">
-  </div>
+ 
  
    <img src="screenShots/m2.png" alt="Screenshot 1" width="150" height="300">
-  </div>
+ 
  
    <img src="screenShots/m3.png" alt="Screenshot 1" width="150" height="300">
-  </div>
+ 
 </div> 
 
 
