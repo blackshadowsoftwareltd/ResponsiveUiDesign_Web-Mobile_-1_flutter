@@ -18,4 +18,6 @@ I am trying to teach Responsive Ui design. This video for Web and Mobile. This d
    <img src="screenShots/m2.png" alt="Screenshot 2" width="200" height="400">
    <img src="screenShots/m3.png" alt="Screenshot 3" width="200" height="400">  
  </div> 
+ 
+ ### Thanks
 
